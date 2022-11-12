@@ -1,0 +1,5 @@
+https://www.tebinja.com/api/v1/doctors/${id}
+
+https://www.tebinja.com/api/v1/doctors/searchi?page=0
+
+src={`https://www.tebinja.com/img/uploads/doctors/thumbnails/${doctor.url}`}
